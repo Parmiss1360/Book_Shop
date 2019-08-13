@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 
 namespace BookShop.Models.ViewModels
 {
+ public int Id{get;set;}
     public class Checkmodel
     {
     }
